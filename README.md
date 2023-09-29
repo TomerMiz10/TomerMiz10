@@ -3,8 +3,8 @@ I'm **Tomer**, a passionate **B.Sc student** based in Israel. Welcome to my GitH
 - 🌱 I'm constantly learning and exploring new technologies. Currently learning **JavaScript, HTML, CSS, Node, React, Java, Python**
 
 ## My Projects
-- [Project 1](https://github.com/TomerMiz10/StoicReads-Bookstore).
-- [Project 2](https://github.com/TomerMiz10/Memory-Game).
+- [Project 1](https://github.com/TomerMiz10/StoicReads-Bookstore) - eCommerce Bookstore.
+- [Project 2](https://github.com/TomerMiz10/Memory-Game) - Cards memory game.
 
 - 📧 [Email](mailto:tomermi123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomer-mizrahi-389aaa246)
