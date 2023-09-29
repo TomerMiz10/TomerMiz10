@@ -1,16 +1,16 @@
-### Hi there 👋
+# Hi there! 👋
+I'm [Tomer], a passionate [B.Sc student] based in [Israel]. Welcome to my GitHub profile! Here, you'll find a glimpse of my coding journey and some of the projects I've been working on.
 
-<!--
-**TomerMiz10/TomerMiz10** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
+## About Me
+- 🌱 I'm constantly learning and exploring new technologies.
 
-Here are some ideas to get you started:
+## My Tech Stack
+bootstrap c cplusplus css3 express git html5 java javascript mongodb python nodejs
 
-- 🔭 I’m currently working on ...
-- 🌱 I’m currently learning ...
-- 👯 I’m looking to collaborate on ...
-- 🤔 I’m looking for help with ...
-- 💬 Ask me about ...
-- 📫 How to reach me: ...
-- 😄 Pronouns: ...
-- ⚡ Fun fact: ...
--->
+## My Projects
+- [Project 1](https://github.com/TomerMiz10/StoicReads-Bookstore).
+- [Project 2](https://github.com/TomerMiz10/Memory-Game).
+
+- 📧 [Email](mailto:tomermi123@gmail.com)
+- 💼 [LinkedIn](https://www.linkedin.com/in/tomer-mizrahi-389aaa246)
+
