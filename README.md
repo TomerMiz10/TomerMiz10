@@ -1,7 +1,5 @@
 # Hi there! 👋
 I'm **Tomer**, a passionate **B.Sc student** based in Israel. Welcome to my GitHub profile!
-
-## About Me
 - 🌱 I'm constantly learning and exploring new technologies. Currently learning **JavaScript, HTML, CSS, Node, React, Java, Python**
 
 
