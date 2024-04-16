@@ -60,3 +60,4 @@ I'm **Tomer**, a passionate **B.Sc student** based in Israel. Welcome to my GitH
 
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomerMiz10&show_icons=true&locale=en&layout=compact" alt="TomerMiz10" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomerMiz10&show_icons=true&locale=en" alt="TomerMiz10" /></p>
+<p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerMiz10&" alt="TomerMiz10" /></p>
