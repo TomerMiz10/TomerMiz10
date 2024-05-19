@@ -3,8 +3,10 @@ I'm **Tomer**, a passionate **B.Sc student** based in Israel. Welcome to my GitH
 - 🌱 I'm constantly learning and exploring new technologies. Currently learning **JavaScript, HTML, CSS, Node, React, Java, Python**
 
 ## My Projects
-- [Project 1](https://github.com/TomerMiz10/StoicReads-Bookstore) - eCommerce Bookstore.
-- [Project 2](https://github.com/TomerMiz10/Memory-Game) - Cards memory game.
+- [Final Project - AI Troubleshooting Guide Generator](https://github.com/roiy0987/Web-Final-Project): Created an AI system to automate troubleshooting guide creation from support call transcripts, improving customer support efficiency. **Technologies**: NextJS, NestJS, MongoDB, OpenAI API.
+- [Foodies](https://github.com/nitzanto/Foodies-WebApp): Developed a full-stack restaurant rating and sharing app. Implemented API usage, backend logic, and user authentication. **Technologies**: TypeScript, Node.js, Express, MongoDB, React Vite.
+- [StoicReads](https://github.com/TomerMiz10/StoicReads-Bookstore): Built an online library store, implementing shopping logic and design for a seamless book-shopping experience. **Technologies**: Node.js, JQuery, MongoDB.
+- [Colman DevClub - Countries REST API](https://github.com/TomerMiz10/DevClub-Countries) - A simple one-page website to display countries details.
 
 - 📧 [Email](mailto:tomermi123@gmail.com)
 - 💼 [LinkedIn](https://www.linkedin.com/in/tomer-mizrahi-389aaa246)
