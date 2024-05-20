@@ -8,6 +8,7 @@ I'm **Tomer**, a passionate **Software Developer** with a B.Sc. in Computer Scie
 - [**AI Troubleshooting Guide Generator**](https://github.com/roiy0987/Web-Final-Project): Created an AI system to automate troubleshooting guide creation from support call transcripts, improving customer support efficiency. **Technologies**: NextJS, NestJS, MongoDB, OpenAI API.
 - [**Foodies**](https://github.com/nitzanto/Foodies-WebApp): Developed a full-stack restaurant rating and sharing app. Implemented API usage, backend logic, and user authentication. **Technologies**: TypeScript, Node.js, Express, MongoDB, React Vite.
 - [**StoicReads**](https://github.com/TomerMiz10/StoicReads-Bookstore): Built an online library store, implementing shopping logic and design for a seamless book-shopping experience. **Technologies**: Node.js, JQuery, MongoDB.
+- [**Podify**](https://github.com/NTTM-Cloud-Solutions/AWS): Podcast management app that fetches and displays podcast episodes using the Spotify API, enhancing user experience. The backend server, developed with Python Flask and deployed on AWS, ensures seamless data management. Terraform facilitates efficient infrastructure provisioning for the project on AWS. 
 - [**Colman DevClub - Countries REST API**](https://github.com/TomerMiz10/DevClub-Countries): A simple one-page website to display countries details.
 
 ## Skills
