@@ -54,6 +54,9 @@ I'm **Tomer**, a passionate **Software Developer** with a B.Sc. in Computer Scie
 <a href="https://expressjs.com" target="_blank" rel="noreferrer">
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/>
 </a>
+<a href="https://nestjs.com/" target="_blank" rel="noreferrer">
+    <img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/>
+</a>
 
 ![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
 ![Rest APIs](https://img.shields.io/badge/-Rest%20APIs-00897B?style=flat&logo=rest-api&logoColor=white)
