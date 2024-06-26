@@ -2,7 +2,7 @@
 
 I'm **Tomer**, a passionate **Software Developer** with a B.Sc. in Computer Science, based in Israel. Welcome to my GitHub profile!
 
-- 🌱 I'm constantly learning and exploring new technologies. Currently focusing on **JavaScript, Node.js, React, Python, and more**.
+- 🌱 I'm constantly learning and exploring new technologies. Currently focusing on **TypeScript, Node.js, React, Android & Kotlin, DevOps, and AWS**.
 
 ## Projects
 - [**AI Troubleshooting Guide Generator**](https://github.com/roiy0987/Web-Final-Project): Created an AI system to automate troubleshooting guide creation from support call transcripts, improving customer support efficiency. **Technologies**: NextJS, NestJS, MongoDB, OpenAI API.
@@ -117,7 +117,12 @@ I'm **Tomer**, a passionate **Software Developer** with a B.Sc. in Computer Scie
     <img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/figma/figma-original.svg" alt="figma" width="40" height="40"/>
 </a>
 
-## GitHub Stats
+## My GitHub Stats
 <p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomerMiz10&show_icons=true&locale=en&layout=compact" alt="TomerMiz10" /></p>
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomerMiz10&show_icons=true&locale=en" alt="TomerMiz10" /></p>
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=TomerMiz10&" alt="TomerMiz10" /></p>
+
+
+<b>My GitHub Stats</b>
+
+[![Tomer's github activity graph](https://github-readme-activity-graph.vercel.app/graph?username=TomerMiz10&theme=dracula)](https://github.com/ashutosh00710/github-readme-activity-graph)
