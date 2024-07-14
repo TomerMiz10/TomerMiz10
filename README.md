@@ -2,12 +2,13 @@
 
 I'm **Tomer**, a passionate **Software Developer** with a B.Sc. in Computer Science, based in Israel. Welcome to my GitHub profile!
 
-- 🌱 I'm constantly learning and exploring new technologies. Currently focusing on **TypeScript, Node.js, React, Android & Kotlin, DevOps, and AWS**.
+- 🌱 I'm constantly learning and exploring new technologies. I'm Currently focusing on projects on **TypeScript, Node.js, React, Android & Kotlin, DevOps, and AWS**.
 
 ## Projects
-- [**AI Troubleshooting Guide Generator**](https://github.com/roiy0987/Web-Final-Project): Created an AI system to automate troubleshooting guide creation from support call transcripts, improving customer support efficiency. **Technologies**: NextJS, NestJS, MongoDB, OpenAI API.
+- [**SupportAI**](https://github.com/SupportAI-Project): Created an AI system to automate troubleshooting guide creation from support call transcripts, improving customer support efficiency. **Technologies**: NextJS, NestJS, MongoDB, OpenAI API.
 - [**Foodies**](https://github.com/nitzanto/Foodies-WebApp): Developed a full-stack Book rating and sharing app. Implemented API usage, CRUD Operations on User and Post, and Google OAuth authentication. **Technologies**: TypeScript, Node.js, Express, MongoDB, React Vite.
-- [**StoicReads**](https://github.com/TomerMiz10/StoicReads-Bookstore): Built an online library store, implementing shopping logic and design for a seamless book-shopping experience. **Technologies**: Node.js, JQuery, MongoDB.
+- [**ToDo-List**](https://github.com/JosephOri/DevOps-project): Automates the deployment of a web application, containerization for packaging, Selenium for automated testing, and GitHub Actions for CI/CD. Under Infrastructure Setup (Ansible), my contribution involved creating the AWS infrastructure using Ansible playbooks. This ensures a repeatable and automated process for provisioning resources like servers and storage.
+My contribution, under Infrastructure Setup (Ansible), involved creating the infrastructure on AWS using Ansible playbooks. This ensures a repeatable and automated process for provisioning resources like servers and storage.
 - [**Podify**](https://github.com/NTTM-Cloud-Solutions/AWS): Podcast management app that fetches and displays podcast episodes using the Spotify API, enhancing user experience. The backend server, developed with Python Flask and deployed on AWS, ensures seamless data management. Terraform facilitates efficient infrastructure provisioning for the project on AWS. 
 - [**Colman DevClub - Countries REST API**](https://github.com/TomerMiz10/DevClub-Countries): A simple one-page website to display countries details.
 
