@@ -2,7 +2,7 @@
 
 I am **Tomer**, a passionate **Software Developer** with a B.Sc. in Computer Science, based in Israel. Welcome to my GitHub profile!
 
-- 🌱 I'm constantly learning and exploring new technologies. I'm Currently focusing on projects on **TypeScript, Node.js, React, Android & Kotlin, DevOps, and AWS**.
+- 🌱 I'm constantly learning and exploring new technologies. I'm Currently focusing on projects on **TypeScript, Node.js, React, NestJS, Next.js, DevOps, and AWS**.
 
 ## Projects
 - [**SupportAI**](https://github.com/SupportAI-Project): Created an AI system to automate troubleshooting guide creation from support call transcripts, improving customer support efficiency. **Technologies**: NextJS, NestJS, MongoDB, OpenAI API.
