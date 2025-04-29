@@ -9,7 +9,14 @@ I am **Tomer**, a passionate **Software Engineer** with a B.Sc. in Computer Scie
 - [**SupportAI**](https://github.com/SupportAI-Project)  
   Designed and implemented an AI-powered full-stack application to streamline troubleshooting guide creation. The system leverages the OpenAI API to analyze support call transcripts, identify issues, and generate solutions, significantly enhancing customer support efficiency.  
   - **Technologies:** Next.js, NestJS, MongoDB, OpenAI API, Docker, GitHub Actions for CI/CD.  
-  - **Key Contributions:** Developed the backend using NestJS to handle data processing, and integrated the OpenAI API for issue analysis and guide generation. Created an intuitive Next.js frontend and ensured seamless deployment with Docker.  
+  - **Key Contributions:** Developed the backend using NestJS to handle data processing, and integrated the OpenAI API for issue analysis and guide generation. Created an intuitive Next.js frontend and ensured seamless deployment with Docker.
+
+- [**Silverwing**](https://github.com/Silver-Wing-Project)  
+  Smart investment assistant fetching stock data from YahooFinance API and sends tailored investment insights. 
+Automates financial analysis based on known investing principles.
+Adds actionable insights and saves research time compared to typical stock dashboards.  
+  - **Technologies:** NestJS, Next.js, MongoDB, TypeScript, YahooFinance API.  
+  - **Key Contributions:** Developed the backend using NestJS and the YahooFinance API for stock data. Designed a clean Next.js frontend and a dashboard for visualizing stock data.
 
 - [**StoicReads**](https://github.com/nitzanto/StoicReads)  
   Built a full-stack platform for rating and sharing books, promoting engagement and discovery through Google OAuth authentication.  
