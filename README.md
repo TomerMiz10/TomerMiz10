@@ -1,79 +1,57 @@
-# Hey there! ![](https://user-images.githubusercontent.com/18350557/176309783-0785949b-9127-417c-8b55-ab5a4333674e.gif)
+# Hello! 👋 I am [Tomer Mizrahi](https://github.com/TomerMiz10)
+<h3>💻 &nbsp;About Me</h3>
 
-I am **Tomer**, a passionate **Software Engineer** with a B.Sc. in Computer Science, based in Israel. Welcome to my GitHub profile!
+- 📚 A motivated Software Engineer, hardworker, team player and bookworm.
+  
+- 🌱 I am a B.Sc. gradute in Computer Science. constantly learning and exploring new technologies.
 
-- 🌱 I'm constantly learning and exploring new technologies. I'm focusing on ***Full Stack*** projects with **TypeScript, Node.js, React, NestJS, Next.js, DevOps, and AWS**.
+- 👨‍💻 I'm focusing on ***Full Stack*** projects with **TypeScript, Node.js, React, NestJS, Next.js, DevOps, and AWS**.
+
+
+### 🛠 &nbsp;Tech Stack
+| | | 
+| --- | --- |
+|💻 &nbsp;**Languages** |[![HTML, CSS, JavaScript, TypeScript, Python, Java](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev)
+|🧩 &nbsp;**Frameworks/Libraries** |[![Node.js, Express, Axios, React, Vite, Next.js, NestJS](https://skillicons.dev/icons?i=nodejs,express,axios,react,vite,next,nest)](https://skillicons.dev)
+|🎨 &nbsp;**Design Systems** |[![Bootstrap, Tailwind, MUI, Styled Components](https://skillicons.dev/icons?i=bootstrap,tailwind,mui,styledcomponents)](https://skillicons.dev)
+|🛢️ &nbsp;**Databases** |[![MySQL, MongoDB, GraphQL](https://skillicons.dev/icons?i=mysql,mongodb,graphql)](https://skillicons.dev)
+|⚙️ &nbsp;**Tools** |[![Git, GitHub, VSCode, Postman](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
+|♾️ &nbsp;**Cloud & CI\CD** |[![Docker, AWS, Terraform, Ansible, GitHub Actions](https://skillicons.dev/icons?i=docker,aws,terraform,ansible,githubactions)](https://skillicons.dev)
 
 ## Projects
 
 - [**SupportAI**](https://github.com/SupportAI-Project)  
-  Designed and implemented an AI-powered full-stack application to streamline troubleshooting guide creation. The system leverages the OpenAI API to analyze support call transcripts, identify issues, and generate solutions, significantly enhancing customer support efficiency.  
-  - **Technologies:** Next.js, NestJS, MongoDB, OpenAI API, Docker, GitHub Actions for CI/CD.  
-  - **Key Contributions:** Developed the backend using NestJS to handle data processing, and integrated the OpenAI API for issue analysis and guide generation. Created an intuitive Next.js frontend and ensured seamless deployment with Docker.
+  An AI-powered full-stack application to streamline troubleshooting guide creation. The system leverages the OpenAI API to analyze support call transcripts, identify issues, and generate solutions, significantly enhancing customer support efficiency.  
+  - **Technologies:** ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![GraphQL](https://img.shields.io/badge/GraphQl-E10098?style=flat-square&logo=graphql&logoColor=white) ![OpenAI API](https://img.shields.io/badge/-OpenAI%20API-eee?style=flat-square&logo=openai&logoColor=412991) ![Docker](https://img.shields.io/badge/docker-257bd6?style=flat-square&logo=docker&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white).
+  - [**Demo Video**](https://www.canva.com/design/DAGoQOVuP8E/FKLiNfg6HMvnT_mJivBD-Q/watch?utm_content=DAGoQOVuP8E&utm_campaign=designshare&utm_medium=link2&utm_source=uniquelinks&utlId=h6844b85385)
 
 - [**Silverwing**](https://github.com/Silver-Wing-Project)  
   Smart investment assistant fetching stock data from YahooFinance API and sends tailored investment insights. 
 Automates financial analysis based on known investing principles.
-Adds actionable insights and saves research time compared to typical stock dashboards.  
-  - **Technologies:** NestJS, Next.js, MongoDB, TypeScript, YahooFinance API.  
-  - **Key Contributions:** Developed the backend using NestJS and the YahooFinance API for stock data. Designed a clean Next.js frontend and a dashboard for visualizing stock data.
+  - **Technologies:** ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![YahooFinance API](https://img.shields.io/badge/YahooFinance%20API-400090?style=flat-square&logo=yahoo&logoColor=white)
 
 - [**StoicReads**](https://github.com/nitzanto/StoicReads)  
   Built a full-stack platform for rating and sharing books, promoting engagement and discovery through Google OAuth authentication.  
-  - **Technologies:** TypeScript, Node.js, Express, MongoDB, React (Vite with Material UI), Jest.  
-  - **Key Contributions:** Developed API endpoints for CRUD operations on users and posts, implemented Google OAuth for secure login, and ensured robust code quality with unit testing using Jest.  
+  - **Technologies:** ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=white) ![Vite](https://img.shields.io/badge/Vite-646CFF?style=flat-square&logo=vite&logoColor=white) ![Material UI](https://img.shields.io/badge/Material%20UI-007FFF?style=flat-square&logo=mui&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
+
+ - [**Podify**](https://github.com/NTTM-Cloud-Solutions/AWS)  
+  Developed a podcast management application that fetches and displays episodes via the Spotify API.  
+  - **Technologies:** ![Python Flask](https://img.shields.io/badge/Flask-000000?style=flat-square&logo=flask&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Terraform](https://img.shields.io/badge/Terraform-7B42BC?style=flat-square&logo=terraform&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![Spotify API](https://img.shields.io/badge/Spotify-1ED760?&style=flat-square&logo=spotify&logoColor=white)
 
 - [**ToDo-List**](https://github.com/JosephOri/DevOps-project)  
-  Automated deployment and infrastructure management for a web application.  
-  - **Technologies:** Ansible, AWS, Selenium, GitHub Actions.  
-  - **Key Contributions:** Created AWS infrastructure using Ansible playbooks, ensuring a repeatable and automated provisioning process. Integrated CI/CD pipelines with GitHub Actions and implemented Selenium-based automated testing.  
-
-- [**Podify**](https://github.com/NTTM-Cloud-Solutions/AWS)  
-  Developed a podcast management application that fetches and displays episodes via the Spotify API.  
-  - **Technologies:** Python Flask, AWS (EC2, Lambda, API Gateway, RDS), Terraform, Next.js.  
-  - **Key Contributions:** Built the backend server for podcast data management, provisioned AWS infrastructure using Terraform, and enhanced automation and resource consistency with Ansible.  
+  Simple ToDo list with CI\CD for automated deployment and infrastructure management for a web application.  
+  - **Technologies:** ![Ansible](https://img.shields.io/badge/Ansible-EE0000?style=flat-square&logo=ansible&logoColor=white) ![AWS](https://img.shields.io/badge/AWS-232F3E?style=flat-square&logo=amazon-aws&logoColor=white) ![Selenium](https://img.shields.io/badge/Selenium-43B02A?style=flat-square&logo=selenium&logoColor=white) ![GitHub Actions](https://img.shields.io/badge/GitHub%20Actions-222222?style=flat-square&logo=githubactions&logoColor=white)
 
 - [**Colman DevClub - Countries REST API**](https://github.com/TomerMiz10/DevClub-Countries)  
   Created a simple and intuitive one-page website to display country details using a RESTful API.  
-  - **Technologies:** Node.js, Express, JavaScript.  
-  - **Key Contributions:** Developed API endpoints for country details, ensuring accurate data fetching and dynamic rendering of content.  
+  - **Technologies:** ![Node.js](https://img.shields.io/badge/Node.js-339933?style=flat-square&logo=nodedotjs&logoColor=white) ![Express.js](https://img.shields.io/badge/Express.js-000000?style=flat-square&logo=express&logoColor=white) ![HTML](https://img.shields.io/badge/-HTML-05122A?style=flat-square&logo=HTML5&logoColor=e34c26) ![CSS](https://img.shields.io/badge/-CSS-05122A?style=flat-square&logo=CSS3&logoColor=1572B6) ![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
 
-
-## Skills
-
-### Programming Languages & Databases
-<a href="https://www.python.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/python/python-original.svg" alt="python" width="40" height="40"/><a>
-<a href="https://nodejs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nodejs/nodejs-original.svg" alt="nodejs" width="40" height="40"/></a>
-<a href="https://www.typescriptlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/typescript/typescript-original.svg" alt="typescript" width="40" height="40"/></a>
-<a href="https://www.java.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/java/java-original.svg" alt="java" width="40" height="40"/></a>
-<a href="https://kotlinlang.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/kotlin/kotlin-original.svg" alt="kotlin" width="40" height="40"/></a>
-<a href="https://www.cprogramming.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/c/c-original.svg" alt="c" width="40" height="40"/></a>
-<a href="https://isocpp.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/cplusplus/cplusplus-original.svg" alt="cplusplus" width="40" height="40"/></a>
-<a href="https://www.mysql.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mysql/mysql-original-wordmark.svg" alt="mysql" width="40" height="40"/></a>
-<a href="https://www.mongodb.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/mongodb/mongodb-original-wordmark.svg" alt="mongodb" width="40" height="40"/></a>
-
-### Frontend & Backend
-<a href="https://reactjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/react/react-original-wordmark.svg" alt="react" width="40" height="40"/></a>
-<a href="https://getbootstrap.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/bootstrap/bootstrap-plain-wordmark.svg" alt="bootstrap" width="40" height="40"/></a>
-<a href="https://jquery.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/jquery/jquery-original-wordmark.svg" alt="jquery" width="40" height="40"/></a>
-<a href="https://nextjs.org/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/nextjs/nextjs-original-wordmark.svg" alt="nextjs" width="40" height="40"/></a>
-<a href="https://expressjs.com" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/express/express-original-wordmark.svg" alt="express" width="40" height="40"/></a>
-<a href="https://nestjs.com/" target="_blank" rel="noreferrer"><img src="https://www.vectorlogo.zone/logos/nestjs/nestjs-icon.svg" alt="nestjs" width="40" height="40"/></a>
-![Express](https://img.shields.io/badge/-Express-000000?style=flat&logo=express&logoColor=white)
-![Rest APIs](https://img.shields.io/badge/-Rest%20APIs-00897B?style=flat&logo=rest-api&logoColor=white)
-
-### Version Control & CI/CD
-<a href="https://git-scm.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/git/git-original.svg" alt="git bash" width="40" height="40"/></a>
-<a href="https://github.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/github/github-original.svg" alt="github" width="40" height="40"/></a>
-<a href="https://github.com/features/actions" target="_blank" rel="noreferrer"><img src="https://avatars.githubusercontent.com/u/44036562?s=200&v=4" alt="github actions" width="40" height="40"/></a>
-
-### Cloud & DevOps, 
-<a href="https://aws.amazon.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" alt="aws" width="40" height="40"/></a>
-<a href="https://www.docker.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/docker/docker-original-wordmark.svg" alt="docker" width="40" height="40"/></a>
-<a href="https://www.ansible.com/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/ansible/ansible-original-wordmark.svg" alt="ansible" width="40" height="40"/></a>
-<a href="https://www.selenium.dev/" target="_blank" rel="noreferrer"><img src="https://raw.githubusercontent.com/devicons/devicon/master/icons/selenium/selenium-original.svg" alt="selenium" width="40" height="40"/></a>
+### 🤝🏻 &nbsp;Connect with Me
+<a href="https://www.linkedin.com/in/tomer-mizrahi-389aaa246/"><img src="https://img.shields.io/badge/-Linkedin-0077B5?style=flat&logo=Linkedin&logoColor=white"/></a>
+<a href="mailto:tomermi123@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 
 ## My GitHub Stats
-<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomerMiz10&show_icons=true&locale=en&layout=compact" alt="TomerMiz10" /></p>
-<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomerMiz10&show_icons=true&locale=en" alt="TomerMiz10" /></p>
+<p><img align="left" src="https://github-readme-stats.vercel.app/api/top-langs?username=TomerMiz10&show_icons=true&locale=en&layout=compact&theme=tokyonight" alt="TomerMiz10" /></p>
+<p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=TomerMiz10&show_icons=true&locale=en&theme=tokyonight" alt="TomerMiz10" /></p>
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=TomerMiz10&label=Profile%20views&color=0e75b6&style=flat" alt="TomerMiz10" /> </p>
