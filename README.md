@@ -12,7 +12,7 @@
 | | | 
 | --- | --- |
 |💻 &nbsp;**Languages** |[![HTML, CSS, JavaScript, TypeScript, Python, Java](https://skillicons.dev/icons?i=html,css,js,ts,python,java)](https://skillicons.dev)
-|🧩 &nbsp;**Frameworks/Libraries** |[![Node.js, Express, Axios, React, Vite, Next.js, NestJS](https://skillicons.dev/icons?i=nodejs,express,axios,react,vite,next,nest)](https://skillicons.dev)
+|🧩 &nbsp;**Frameworks/Libraries** |[![Node.js, Express, React, Vite, Next.js, NestJS](https://skillicons.dev/icons?i=nodejs,express,react,vite,next,nest)](https://skillicons.dev)
 |🎨 &nbsp;**Design Systems** |[![Bootstrap, Tailwind, MUI, Styled Components](https://skillicons.dev/icons?i=bootstrap,tailwind,mui,styledcomponents)](https://skillicons.dev)
 |🛢️ &nbsp;**Databases** |[![MySQL, MongoDB, GraphQL](https://skillicons.dev/icons?i=mysql,mongodb,graphql)](https://skillicons.dev)
 |⚙️ &nbsp;**Tools** |[![Git, GitHub, VSCode, Postman](https://skillicons.dev/icons?i=git,github,vscode,postman)](https://skillicons.dev)
