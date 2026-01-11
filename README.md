@@ -14,8 +14,8 @@
 
 - [**Silverwing**](https://github.com/Silver-Wing-Project)  
   Smart investment assistant fetching stock data from YahooFinance API and sends tailored investment insights. 
-Automates financial analysis based on known investing principles.
-  - **Technologies:** ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![YahooFinance API](https://img.shields.io/badge/YahooFinance%20API-400090?style=flat-square&logo=yahoo&logoColor=white)
+Automates financial analysis based on stock reports and known investing principles.
+  - **Technologies:** ![NestJS](https://img.shields.io/badge/-NestJs-ea2845?style=flat-square&logo=nestjs&logoColor=white) ![Next.js](https://img.shields.io/badge/next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white) ![MongoDB](https://img.shields.io/badge/MongoDB-47A248?style=flat-square&logo=mongodb&logoColor=white) ![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=flat-square&logo=typescript&logoColor=white) ![YahooFinance API](https://img.shields.io/badge/YahooFinance%20API-400090?style=flat-square&logo=yahoo&logoColor=white) ![Jest](https://img.shields.io/badge/Jest-C21325?style=flat-square&logo=jest&logoColor=white)
 
 - [**StoicReads**](https://github.com/nitzanto/StoicReads)  
   Built a full-stack platform for rating and sharing books, promoting engagement and discovery through Google OAuth authentication.  
