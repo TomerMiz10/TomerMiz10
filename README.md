@@ -54,3 +54,4 @@ Automates financial analysis based on stock reports and known investing principl
 
 ### My Stats
 
+[![Pranesh's GitHub stats](https://github-readme-stats-fast.vercel.app/api?username=TomerMiz10)](https://github.com/pranesh-2005/github-readme-stats-fast)
