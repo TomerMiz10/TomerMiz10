@@ -53,4 +53,4 @@ Automates financial analysis based on stock reports and known investing principl
 <a href="mailto:tomermi123@gmail.com"><img src="https://img.shields.io/badge/-Mail-D14836?style=flat&logo=Gmail&logoColor=white"/></a>
 
 ### My Stats
-[![Tomer's GitHub stats](https://github-readme-stats.vercel.app/api?username=TomerMiz10)](https://github.com/anuraghazra/github-readme-stats)
+
